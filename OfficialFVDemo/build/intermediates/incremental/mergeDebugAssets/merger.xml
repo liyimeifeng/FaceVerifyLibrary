@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Work\Pad\OfficialFVDemo\src\main\assets"><file name="fonts/zzgf_yuehei.otf" path="D:\Work\Pad\OfficialFVDemo\src\main\assets\fonts\zzgf_yuehei.otf"/></source><source path="D:\Work\Pad\OfficialFVDemo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Work\Pad\OfficialFVDemo\src\debug\assets"/></dataSet></merger>

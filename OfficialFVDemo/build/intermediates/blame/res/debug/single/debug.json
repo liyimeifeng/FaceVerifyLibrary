@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yz_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\yz_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480_activity_main.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_left.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\button_left.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_group_header_layout.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\group_header_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480_activity_vocal_demo.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_vocal_demo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xt2_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\xt2_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-1280x720_activity_mixed_verify.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-1280x720\\activity_mixed_verify.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_auth_id_bg.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\auth_id_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_title_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\title_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_retry_bg_p.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\retry_bg_p.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_reg_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\reg_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_group_manager_button_select.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\group_manager_button_select.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zc_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\zc_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-1280x720_activity_face_demo.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-1280x720\\activity_face_demo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_effect_radio.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\effect_radio.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drop.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\drop.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-1280x720_activity_login.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-1280x720\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-1280x720_activity_mixed_verify_result.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-1280x720\\activity_mixed_verify_result.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_mfv_full_button_select.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\mfv_full_button_select.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_right.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\button_right.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tit_bg.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\tit_bg.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\reg_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_verify_button_selector1.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\verify_button_selector1.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tcz.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\tcz.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_vocal_identify.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_vocal_identify.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scz.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\scz.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mid_bg.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\mid_bg.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_item_group.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\item_group.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_bg.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\next_bg.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\input.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_result_foot_bg.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\result_foot_bg.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_view_frame.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\view_frame.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_listen_bg.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\listen_bg.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scmx.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\scmx.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg3.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\bg3.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_edit_bg.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_mixed_verify_result.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_mixed_verify_result.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_pop_view.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\pop_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-1280x720_popup_window_content.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-1280x720\\popup_window_content.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480_activity_login.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radio.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\radio.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_input2.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\input2.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mid_bg_p.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\mid_bg_p.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_result.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\bg_result.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flash_open_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\flash_open_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_button_normal_bg.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\button_normal_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_join.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\join.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_popup_window_content.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\popup_window_content.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_left_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\left_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zc.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\zc.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_shutter_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\shutter_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pz.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\pz.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reverify.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\reverify.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_manager.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_group_manager.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_x_bg.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\next_x_bg.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_face_idf.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\face_idf.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radio_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\radio_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480_activity_mixed_verify_result.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_mixed_verify_result.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_camera_switch_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\camera_switch_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_full_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\full_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_right_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\right_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_confirm.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\confirm.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_button_pressed_bg.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\button_pressed_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mfv_button_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\mfv_button_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_radio_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\radio_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_circle_vol.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\circle_vol.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_flash_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\flash_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_isv_presstalk_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\isv_presstalk_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_face_identify_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\face_identify_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_success.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\success.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_retry_bg.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\retry_bg.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_verify.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\verify.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sc.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\sc.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_back_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\back_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_item_identify_result.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\item_identify_result.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_normal.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\login_normal.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_azsh.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\azsh.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ifv_button.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\ifv_button.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_create.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\create.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mic.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\mic.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_icon_demo.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\icon_demo.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mfv_button.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\mfv_button.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_mixed_verify.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_mixed_verify.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-1280x720_activity_vocal_demo.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-1280x720\\activity_vocal_demo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ccy.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\ccy.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_circle_outter.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\circle_outter.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photograph_2.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\photograph_2.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lose.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\lose.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xt2.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\xt2.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yz.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\yz.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\camera_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scmx_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\scmx_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_isv_button.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\isv_button.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480_activity_mixed_verify.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_mixed_verify.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_face_idf_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\face_idf_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_confirm_bg_p.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\confirm_bg_p.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sc_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\sc_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flash_close.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\flash_close.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xt.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\xt.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_face_demo.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_face_demo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_main_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\main_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_bg_p.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\next_bg_p.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_isv_button_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\isv_button_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flash_open.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\flash_open.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pz2.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\pz2.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ifv_button_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\ifv_button_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cxyz_bg_p.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\cxyz_bg_p.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_camera_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\camera_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_confirm_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\confirm_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_azsh_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\azsh_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_isv_deletemodel_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\isv_deletemodel_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_btn.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\group_btn.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cxmx.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\cxmx.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_home.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\back_home.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480_activity_face_demo.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_face_demo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_edit_layout.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\edit_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_mixed.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-mdpi\\icon_mixed.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_result_identify.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_result_identify.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pz2_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\pz2_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_vocal_demo.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_vocal_demo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg4.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\bg4.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_face_identify.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout\\activity_face_identify.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_opened.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\login_opened.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_mid_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\mid_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_human_photo.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\human_photo.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\reg.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_isv_querymodel_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\isv_querymodel_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ifv_full_button_select.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\ifv_full_button_select.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photograph2.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\photograph2.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_face.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\icon_face.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_isv_full_button_select.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\isv_full_button_select.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_head_bg02.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\head_bg02.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cxyz_bg.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\cxyz_bg.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_confirm_bg.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\confirm_bg.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cxmx_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\cxmx_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_verify_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\verify_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_retry.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\retry.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_mic_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\mic_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_pickimg_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\pickimg_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num_bg.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\num_bg.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_speech.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\icon_speech.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_delete_button_selector.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\delete_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480_popup_window_content.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\popup_window_content.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photograph.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\photograph.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_again.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\again.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_btn_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\group_btn_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_x_bg_p.9.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\next_x_bg_p.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-1280x720_activity_main.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-1280x720\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable_edit_bg_shape.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable\\edit_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mic_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\mic_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_p.png.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\drawable-hdpi\\back_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\anim\\slide_out_right.xml"
+    }
+]

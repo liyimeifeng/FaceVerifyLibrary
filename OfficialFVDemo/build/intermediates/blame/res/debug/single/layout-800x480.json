@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\activity_mixed_verify_result.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_mixed_verify_result.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\activity_main.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\popup_window_content.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\popup_window_content.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\activity_face_demo.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_face_demo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\activity_vocal_demo.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_vocal_demo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\activity_login.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\layout-800x480\\activity_mixed_verify.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\layout-800x480\\activity_mixed_verify.xml"
+    }
+]

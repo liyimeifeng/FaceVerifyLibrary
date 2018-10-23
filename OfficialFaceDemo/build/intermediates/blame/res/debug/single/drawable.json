@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFaceDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "D:\\Work\\Pad\\OfficialFaceDemo\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFaceDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_p.png",
+        "source": "D:\\Work\\Pad\\OfficialFaceDemo\\src\\main\\res\\drawable\\setting_p.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFaceDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "D:\\Work\\Pad\\OfficialFaceDemo\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFaceDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg_color.xml",
+        "source": "D:\\Work\\Pad\\OfficialFaceDemo\\src\\main\\res\\drawable\\list_bg_color.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFaceDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_setting_btn_np.xml",
+        "source": "D:\\Work\\Pad\\OfficialFaceDemo\\src\\main\\res\\drawable\\main_setting_btn_np.xml"
+    }
+]

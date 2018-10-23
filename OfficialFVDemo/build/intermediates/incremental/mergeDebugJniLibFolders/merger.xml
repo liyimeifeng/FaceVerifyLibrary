@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Work\Pad\OfficialFVDemo\libs"><file name="armeabi/libmsc.so" path="D:\Work\Pad\OfficialFVDemo\libs\armeabi\libmsc.so"/><file name="Msc.jar" path="D:\Work\Pad\OfficialFVDemo\libs\Msc.jar"/><file name="Sunflower.jar" path="D:\Work\Pad\OfficialFVDemo\libs\Sunflower.jar"/></source></dataSet><dataSet config="debug"><source path="D:\Work\Pad\OfficialFVDemo\src\debug\jniLibs"/></dataSet></merger>

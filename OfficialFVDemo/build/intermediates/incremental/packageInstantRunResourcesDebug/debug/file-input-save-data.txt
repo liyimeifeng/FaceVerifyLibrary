@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Sep 27 18:02:35 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\assets\\debug
+0.path=fonts/zzgf_yuehei.otf
+0.set=ASSET
+count=1

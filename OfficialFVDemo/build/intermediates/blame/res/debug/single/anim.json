@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\Work\\Pad\\OfficialFVDemo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "D:\\Work\\Pad\\OfficialFVDemo\\src\\main\\res\\anim\\slide_out_right.xml"
+    }
+]
